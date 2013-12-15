@@ -1,0 +1,4 @@
+echo "Go ahead and \`M-x attach-current-remote-editing', m'kay?"
+echo -n "-<0=0>-${*}-<0=0>-"
+read
+exit 0
