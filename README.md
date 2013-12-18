@@ -38,8 +38,8 @@ endif
 
 * Usage
 -------
-  `M- remote-shell' - connect to remote shell.
+  `M-x remote-shell' - connect to remote shell.
   
-  `M- attach-current-remote-editing' - when remote editing started, execute this to attach to it.
+  `M-x attach-current-remote-editing' - when remote editing started, execute this to attach to it.
   Indication on the screen will be apparent.
 
